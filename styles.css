@@ -1,0 +1,9 @@
+#navbar {
+    position: fixed;
+    top: 0px;
+}
+@media screen and (min-width: 480px) {
+    body {
+      background-color: lightgreen;
+    }
+}
